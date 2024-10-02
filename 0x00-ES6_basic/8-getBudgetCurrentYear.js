@@ -8,8 +8,8 @@ export default function getBudgetForCurrentYear(income, gdp, capita) {
     
     'income-2021': 2100,
       'gdp-2021': 5200,
-    'capita-2021': 1090 
+    'capita-2021': 1090, 
   };
   
   return budget;
-}
+};
