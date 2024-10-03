@@ -20,7 +20,7 @@ export default function taskBlock(trueOrFalse) {
   if (trueOrFalse) {
     task = false; // eslint-disable-line no-unused-vars
     task2 = true; // eslint-disable-line no-unused-vars
-  }
+  },
 
   return [task, task2];
 }
