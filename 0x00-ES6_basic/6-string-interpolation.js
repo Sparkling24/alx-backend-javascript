@@ -8,9 +8,8 @@ export default function getSanFranciscoDescription() {
 
   get year() {
     return this._year;
-  }
 
-  get budget() {
+  get budget() 
     return this._budget;
   }
 
